@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='Optionals'/>
+        <page name='Arrays + Loops'/>
+        <page name='Dictionaries'/>
+        <page name='Optionals - Answers'/>
+        <page name='Arrays + Loops - Answers'/>
+        <page name='Dictionaries - Answers'/>
+    </pages>
+</playground>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='raw'>
+    <pages>
+        <page name='Variables and Types'/>
+        <page name='Control Flow'/>
+        <page name='Functions'/>
+        <page name='Classes'/>
+        <page name='Variables and Types - Answers'/>
+        <page name='Control Flow - Answers'/>
+        <page name='Functions - Answers'/>
+        <page name='Classes - Answers'/>
+    </pages>
+</playground>
