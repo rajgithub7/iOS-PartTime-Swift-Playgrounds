@@ -49,8 +49,7 @@ for i in 1...finalNumber {
 }
 
 // prints the numbers 1 to 5
-	
-}
+
 ```
 
 ### Functions and Methods
