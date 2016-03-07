@@ -85,8 +85,7 @@ var height: Double = 10
 
 //: ## Bonus Challenge
 //:
-//: It may not be obvious, but the types we are using, `String`, `Int`, `Double`, all have methods, bits of code, you can ask them to run. Float and Int have a pretty minimal set of things they can do, but String has a lot! type the name of the variable and a '.' to show the autocomplete menu. From this list you can pick uppercaseString and lowercaseString to change the case of the characters.
-
+//: It may not be obvious, but the types we are using, `String`, `Int`, and `Double` all have methods, or bits of code, you can ask them to run. `Float` and `Int` have a pretty minimal set of things they can do, but `String` has a lot! Write out the name of a variable, e.g. `greeting`, and then a '.'. This will show the autocomplete menu. From this list you can pick `uppercaseString` and `lowercaseString` to change the case of the characters in our greeting.
 
 
 

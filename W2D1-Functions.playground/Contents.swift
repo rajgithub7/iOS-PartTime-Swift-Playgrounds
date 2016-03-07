@@ -39,7 +39,6 @@ func greet(name: String) {
 
 
 
-
 //: ### Challenge 2
 //:
 //: Now take the code your wrote in the last playground to print out a grammatical description of our bicycleCount, and write a function that takes in an Int representing how many bicycles we have, and prints out a description of how many bicycles we have. You can call the function `pluralize`.
@@ -56,7 +55,8 @@ func greet(name: String) {
 //: Not only can functions take in parameters, but they can return values. So far we've only written functions that don't return anything, they just print stuff. Here is an example of a function that takes in an Int and returns an Int
 
 func increment(input: Int) -> Int {
-    return input + 1
+    var newValue = input + 1
+    return newValue
 }
 
 var result = increment(10)
@@ -67,7 +67,6 @@ var result = increment(10)
 //: ### Challenge 3
 //:
 //: Using the `increment` function as an example, re-write the `pluralize` function (call it `pluralizedString`) so it returns a String instead of printing.
-
 
 
 
@@ -86,10 +85,10 @@ var result = increment(10)
 //:
 //: One way would be to take an input word as well as a count and add "s" to the end of it. Something like:
 
-// pluralizeWord("car", 2) // returns "cars"
+// pluralizedWord("car", 2) // returns "cars"
 
 //: But, since english is a silly language, adding "s" doesn't always make a correct pluralization. Irregularities are common. Think of octopus/octopi, sheep/sheep and man/men.
-//: So let's make it even better, we want a fuction called pluralizeWord that takes in 3 inputs:
+//: So let's make it even better, we want a fuction called pluralizedWord that takes in 3 inputs:
 //:
 //: 1) a singular noun string (e.g. "bicycle")
 //: 2) a plural noun string (e.g. "bicycles")
@@ -101,17 +100,16 @@ var result = increment(10)
 
 
 
-
-
 // Test your function by uncommenting:
 
-// pluralizeWord("octopus", pluralNoun: "octopi", count: 1)
-// pluralizeWord("woman", pluralNoun: "women", count: 2)
-// pluralizeWord("apple", pluralNoun: "apples", count: 0)
+// pluralizedWord("octopus", pluralNoun: "octopi", count: 1)
+// pluralizedWord("woman", pluralNoun: "women", count: 2)
+// pluralizedWord("apple", pluralNoun: "apples", count: 0)
 
-// You might have noticed that when we have a function that takes multiple inputs, we have to explicitly write out all input names other than the first one ex) pluralNoun and count from above.
+// You might have noticed that when we have a function that takes multiple inputs, we have to explicitly write out all input names other than the first one e.g. `pluralNoun` and `count`, seen above.
 
-//: [Next](@next)
+
+
 
 
 
