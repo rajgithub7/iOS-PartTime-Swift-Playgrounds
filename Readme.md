@@ -99,7 +99,7 @@ class ClassName : ParentClass {
 	let aVariable = 0
 	
 	func aFunction() -> String {
-		returns "A function"
+		returns "A String"
 	}
 	
 
