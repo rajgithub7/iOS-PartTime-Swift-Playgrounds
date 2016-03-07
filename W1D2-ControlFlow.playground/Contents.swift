@@ -39,7 +39,7 @@ if someThing == otherThing {
 //:
 //: 1. Curly-braces. We use the `{` and `}` symbols to start and end sections of code.
 //: 2. `if` and `else`. The section of code following the `if` will be run if the data in `someThing` is equal to the data in `otherThing`. The section of code following the `else` will be run if they are not equal.
-//: 3. Double equals. Since in Swift the single equals is the "assignment operator" used to change the data in a variable, we use the double-equals `==` to compare two bits of data. To see this separate form an `if` statement, try writing `1 == 2` or `1 == 1` by itself on a line to see how the playground interprets that.
+//: 3. Double equals. In Swift the single equals is the "assignment operator" used to change the data in a variable, we use the double-equals `==` to compare two pieces of data.
 
 
 
@@ -47,6 +47,7 @@ if someThing == otherThing {
 //:
 //: Now see if you can make an `if`/`else` statement that prints out a grammatically correct description of how many bicycles we have. I.e. "There is 1 bicycle" or "There are 100 bicycles".
 
+bicycleCount = 1
 
 
 
@@ -55,6 +56,7 @@ if someThing == otherThing {
 //:
 //: Now try to add an `else if` clause so it prints out "There are zero bicycles" if the `bicycleCount` is 0. `else if` goes between the `if` and the `else` blocks.
 
+bicycleCount = 0
 
 
 
