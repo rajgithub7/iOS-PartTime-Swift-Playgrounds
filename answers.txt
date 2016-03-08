@@ -9,12 +9,7 @@ greeting = "Aloha"
 
 count = count + 1
 
-
 //: ## Challenge 3
-
-// The types of count (Int) and greeting (String) don't match up, so there is a syntax error and the playground won't run.
-
-//: ## Challenge 4
 
 // tipAmount's type is: Double
 // isOpen's type is: Bool
@@ -25,8 +20,7 @@ greeting.lowercaseString
 greeting.uppercaseString
 
 
-
-W1S2 - Control Flow
+W1D2 - Control Flow
 
 //: ## Challenge 1
 

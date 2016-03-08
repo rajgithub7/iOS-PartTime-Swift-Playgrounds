@@ -56,16 +56,16 @@ greeting
 count
 
 //: Let's go over some basic types:
+//:
 //: String - a collection of characters inside "quotation marks"
+//:
 //: Bool - either true or false
+//:
 //: Int - a whole number. ex) 5
-//: Double - a number with more precision. ex) 5.55
+//:
+//: Double - a number with more precision. ex) 5.55  
 
 //: ### Challenge 3
-//: What happens if you try to put a string in `count`? What happens when you try to put a number in `greeting`. Try to do this below.
-
-
-//: ### Challenge 4
 //: What type are the variables `tipAmount`, and `isOpen`?
 
 var tipAmount = 6.01
@@ -101,10 +101,8 @@ var height: Double = 10
 //:
 //: Print out the uppercase and lowercase versions of the string below:
 
-
-
 var schoolName = "Lightouse Labs"
 
 
 
-//: [Next](@next)
+//: THE END
