@@ -1,0 +1,25 @@
+//: # W1D1 - Variables and Types
+//:
+//: ## Challenge 1
+
+greeting = "Aloha"
+
+//: ## Challenge 2
+
+count = count + 1
+
+
+//: ## Challenge 3
+
+// The types of count (Int) and greeting (String) don't match up, so there is a syntax error and the playground won't run.
+
+//: ## Challenge 4
+
+// tipAmount's type is: Double
+// isOpen's type is: Bool
+
+//: ## Bonus Challenge
+
+greeting.lowercaseString
+greeting.uppercaseString
+

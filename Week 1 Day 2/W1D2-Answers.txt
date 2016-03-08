@@ -1,0 +1,32 @@
+//: # W1D2 - Control Flow
+//:
+//: ## Challenge 1
+
+if bicycleCount == 1 {
+    print("There is \(bicycleCount) bicycle")
+} else {
+    print("There are \(bicycleCount) bicycles")
+}
+
+//: ## Challenge 2
+
+
+if bicycleCount == 1 {
+    print("There is \(bicycleCount) bicycle")
+} else if (bicycleCount == 0) {
+    print("There are zero bicycles")
+} else {
+    print("There are \(bicycleCount) bicycles")
+}
+
+
+//: ## Bonus Challenge
+
+var inputString = "Do you like bicycles?"
+
+if inputString.hasSuffix("?") {
+    print("I think so!")
+} else {
+    print("You don't say!")
+}
+
