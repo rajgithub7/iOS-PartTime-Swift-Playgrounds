@@ -109,6 +109,13 @@ brightBulb.watts
 
 
 
+
+
+
+
+
+
+
 //: ## Bonus Challenge
 
 //: Subclassing allows us to make a new class that has all the same properties and functions as its "parent" class.
@@ -119,6 +126,7 @@ brightBulb.watts
 //: The syntax for subclassing can be found in the Swift Cheat Sheet included with this Playground.
 //:
 //: Hint: height * width * depth = the area of a cube
+
 
 
 

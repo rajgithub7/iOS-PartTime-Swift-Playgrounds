@@ -25,22 +25,20 @@ func rideBike() {
 //: Functions can take any number of parameters as input, and do something with that input. Take this example function:
 
 func travel(name: String, distance: Double) {
-    print("\(name) is going \(distance) km")
+    print("\(name) went \(distance) km")
 }
 
 //: This is a function that takes a `String` and a `Double` as a parameter, and uses it to describe how far a specific person is going.
 
 
 //: ### Challenge 1
-//: Try to call this function with your name, so you win the game.
+//: Try to call this function with your name and a distance you're travelling.
 //: Hint: Start typing the name of the travel function, and autocomplete should suggest a completion!
 
 
 
 //: ### Challenge 2
 //: Now, take the code your wrote in the last playground to print out a grammatical description of how fast we're moving, and write a function that takes in a Double and uses that as the kph. Call the function `describeSpeed`.
-
-
 
 
 
@@ -72,13 +70,11 @@ var result = complement("Cory")
 
 
 
-
-
 // Test it by uncommenting the lines below:
 
-//speedDescription(10)
-//speedDescription(0)
-//speedDescription(45)
+//var sd1 = speedDescription(10)
+//var sd2 = speedDescription(0)
+//var sd3 = speedDescription(45)
 
 
 //: [Next](@next)

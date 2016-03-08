@@ -39,6 +39,7 @@ if someThing > otherThing {
 //: ### Challenge 1
 //:
 //: Now see if you can make an `if`/`else` statement that prints out a description of how fast we're moving. I.e. "We're standing still" or "We're moving 88.0 km/h".
+kph
 
 
 
