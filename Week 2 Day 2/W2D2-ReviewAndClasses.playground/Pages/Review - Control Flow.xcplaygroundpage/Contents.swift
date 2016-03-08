@@ -46,7 +46,7 @@ if someThing > otherThing {
 
 //: ### Challenge 2
 //:
-//: It turns out in this Playground the speed limit is 30km/h. If the `kph` variable contains a value greater than 30.0 you should print out "Whoa slow down buddy, 35.9 km/h is too fast for this school zone!".
+//: It turns out in this Playground the speed limit is 30km/h. So add a case where if the `kph` variable contains a value greater than 30.0 you should print out "Whoa slow down buddy, 35.9 km/h is too fast for this school zone!".
 //: You'll need to use an `if`, an `else if` and an `else` for this, because we have to handle three cases (not moving, moving under speed limit, and moving over speed limit).
 
 

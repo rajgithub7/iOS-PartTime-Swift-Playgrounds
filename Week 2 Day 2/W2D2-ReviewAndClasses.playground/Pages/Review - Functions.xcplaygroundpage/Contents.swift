@@ -32,8 +32,10 @@ func travel(name: String, distance: Double) {
 
 
 //: ### Challenge 1
-//: Try to call this function with your name, so you win the game.
+//: Try to call this function with your name
 //: Hint: Start typing the name of the travel function, and autocomplete should suggest a completion!
+
+
 
 
 
