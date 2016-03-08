@@ -53,14 +53,12 @@ if inputString.hasSuffix("?") {
 }
 
 
-
 W2D1 - Functions
 
 
 //: ## Challenge 1
 
 greet("Cory")
-greet("Danny")
 
 
 //: ## Challenge 2
