@@ -15,7 +15,12 @@ var greeting = "Hello, world!"
 //: and 3) the data stored inside the variable
 //: In the example above, the name of the variable is `greeting` and the value is a string "Hello, world!"
 
+
 var count = 0
+
+
+
+
 
 //: *Note:* In this case, the name of this variable is `count`, and the value is the number `0`
 
