@@ -24,11 +24,7 @@ mph + 0.1
 
 //: ### Challenge 1
 //:
-//: If we look at the data stored in mph, we see that the expression `mph + 0.1` doesn't actually change the value in `mph`.
-
-mph // still 87.9 or whatever you changed it to
-
-//: To change the value in `mph`, use the assignment operator `=`.
+//: Change the value in `mph` to be equal to 90, use the assignment operator `=`.
 
 
 
@@ -36,7 +32,13 @@ mph // still 87.9 or whatever you changed it to
 //: ### Challenge 2
 //:
 //: The `greeting` variable contains a greeting. Change the value in `greeting` to include your name. i.e. if greeting contained "Hello" and your name is "Danny", then it should now contain "Hello, Danny".
-//: Note: Make sure to do this in such a way that changing the value of `greeting` at the top of the page to "Aloha" changes the value here to be "Aloha, Danny"
+
+greeting = "Hello"
+
+
+
+
+//: Note: Make sure to do this in such a way that changing the value of `greeting` to "Aloha" changes the value here to be "Aloha, Danny"
 
 
 

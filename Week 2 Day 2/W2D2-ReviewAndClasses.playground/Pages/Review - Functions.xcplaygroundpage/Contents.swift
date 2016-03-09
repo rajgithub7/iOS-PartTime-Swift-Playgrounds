@@ -32,8 +32,11 @@ func travel(name: String, distance: Double) {
 
 
 //: ### Challenge 1
-//: Try to call this function with your name and a distance you're travelling.
+//:
+//: Try to call this function with your name and a distance
 //: Hint: Start typing the name of the travel function, and autocomplete should suggest a completion!
+
+
 
 
 

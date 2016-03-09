@@ -60,6 +60,8 @@ bicycleCount = 0
 
 
 
+
+
 //: ### Bonus Challenge
 //: Make an if/else block that prints "I think so!" if `inputString` ends in "?", if the string ends in any other character then print "You don't say!"
 //: If you can't figure out how to tell if a string ends in ?, try googling something like "swift string ends with character".
@@ -70,4 +72,7 @@ var inputString = "Do you like bicycles?"
 
 
 
+
+
+//: THE END
 

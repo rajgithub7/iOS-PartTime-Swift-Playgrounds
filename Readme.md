@@ -49,8 +49,7 @@ for i in 1...finalNumber {
 }
 
 // prints the numbers 1 to 5
-	
-}
+
 ```
 
 ### Functions and Methods
@@ -100,7 +99,7 @@ class ClassName : ParentClass {
 	let aVariable = 0
 	
 	func aFunction() -> String {
-		returns "A function"
+		returns "A String"
 	}
 	
 
